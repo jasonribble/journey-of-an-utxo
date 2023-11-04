@@ -106,4 +106,11 @@ Include donation link at the end in LN/BTC
 
 ## Resources
 
--[Sender, nodes or miners? Who validates transactions](https://bitcoin.stackexchange.com/questions/63910/sender-nodes-or-miners-who-validates-transactions) -[Geroge Levy](https://www.youtube.com/watch?v=5-IGfoY1SfE) -[Bitcoin Developer Guides](https://developer.bitcoin.org/devguide/) -[Proof of Work](https://en.wikipedia.org/wiki/Proof_of_work) -[How Is Difficulty Calculated](https://bitcoin.stackexchange.com/questions/5838/how-is-difficulty-calculated) -[Difficult](https://en.bitcoin.it/wiki/Difficulty)
+- [Esplora](https://github.com/Blockstream/esplora)
+- [Electrs](https://github.com/romanz/electrs)
+- [Sender, nodes or miners? Who validates transactions](https://bitcoin.stackexchange.com/questions/63910/sender-nodes-or-miners-who-validates-transactions)
+- [Geroge Levy](https://www.youtube.com/watch?v=5-IGfoY1SfE)
+- [Bitcoin Developer Guides](https://developer.bitcoin.org/devguide/)
+- [Proof of Work](https://en.wikipedia.org/wiki/Proof_of_work)
+- [How Is Difficulty Calculated](https://bitcoin.stackexchange.com/questions/5838/how-is-difficulty-calculated)
+- [Difficult](https://en.bitcoin.it/wiki/Difficulty)
