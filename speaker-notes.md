@@ -51,6 +51,7 @@ A key feature of proof-of-work schemes is their asymmetry: the work – the comp
 In otherwords:
 
 - Computationally difficult to come up with the answer
+  -> why do we want it to be difficult to come up with the answer?
 - Computationally easy to verify the answer is correct
 
 What is this "work" in bitcoin?
